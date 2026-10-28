@@ -1,0 +1,19 @@
+# Output folders
+Model
+Data
+Figures
+Code
+Predictions
+Backup
+Testlog
+
+# Notebooks
+*.ipynb
+
+# Python env folders
+__pycache__
+pyenv
+
+# Tmp/Log Files
+*.log
+*.csv
